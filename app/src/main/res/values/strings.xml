@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Переключение языка</string>
+    <string name="apply">Применить</string>
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+</resources>
